@@ -1,4 +1,4 @@
-# 🏥 Medical-Analysis-
+# 🏥 Medical-Analysis
 
 This project analyzes a healthcare dataset using **SQL** to uncover hidden trends and patterns. It uses complex SQL queries such as **aggregate functions, joins, subqueries, CTEs and more**. Evaluates billing amounts segmented by condition, gender, hospital, insurance, and doctor. 
 
